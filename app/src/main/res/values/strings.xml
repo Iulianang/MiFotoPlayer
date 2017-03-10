@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiFotoPlayer</string>
+    <string name="Mensajebotonsi">Si</string>
+    <string name="mensajebotonno">No</string>
+    <string name="mensajesitoas">Eso es, tu si que sabes</string>
+    <string name="mensajenotoas">Nein Nein Nein</string>
+</resources>
